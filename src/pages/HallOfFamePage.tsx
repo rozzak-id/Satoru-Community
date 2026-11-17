@@ -42,6 +42,7 @@ function CompactWinnerCard({ entry, profile, loading }: CompactWinnerCardProps) 
             src={avatarSrc}
             alt={`Foto profil TikTok ${entry.winner}`}
             loading="lazy"
+            referrerPolicy="no-referrer"
             onError={() => setImgFailed(true)}
             className="w-full h-full object-cover transition-transform duration-200 group-hover:scale-[1.03]"
           />
