@@ -1,0 +1,8 @@
+{
+  "name": "Satoru Community",
+  "description": "Portal resmi Satoru Community: informasi komunitas editing, properti logo, arsip event TikTok, daftar partnership, divisi, Satoru Semester Awards, Hall of Fame, dan pendaftaran member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
